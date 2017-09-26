@@ -1,12 +1,4 @@
 ### Text/Code Editor using Tkinter
-### TODO: 1) Implement show line numbers.
-###       2) Syntax highlighting, AutoComplete,...
-###       3) Change the style of notebook from pyttk
-###       4) File browser
-###       5) On changing tabs it must be able to focus on that line again
-###       6) Implement multiple cursors
-###       7) Implement syntax highlights
-###       8) Server implementation
 
 import tkinter as tk
 import tkinter.scrolledtext as scrolledtext
